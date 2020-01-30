@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "restapi_dev",
+            "dialect": "PostgreSQL",
+            "name": "restapi_dev",
+            "password": "pass",
+            "port": 5432,
+            "server": "localhost",
+            "username": "ubn"
+        }
+    ]
+}
